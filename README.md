@@ -6,7 +6,6 @@
 
 [![JavaScript](https://skillicons.dev/icons?i=js,html,css,git,vscode)](https://skillicons.dev)
 
-[📚 Campus Linkia FP](https://campus.linkiafp.es/course/view.php?id=10190)
 
 </div>
 
